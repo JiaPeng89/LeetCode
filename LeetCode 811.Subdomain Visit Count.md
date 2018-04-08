@@ -38,7 +38,7 @@ We will visit "google.mail.com" 900 times, "yahoo.com" 50 times, "intel.mail.com
 
 ### Solution :
 
-my first submission code is:
+at the first time , my accecpted submission code is:
 
 ```python
 class Solution:
@@ -79,7 +79,7 @@ class Solution:
         return list
 ```
 
-after checking other people's python code , for simplicity, I have refined it to :
+and then after checking other LeetCoder's python code, for simplicity and brevity, I have refined it to this explanatory-free code:
 
 ```python
 class Solution:
@@ -108,4 +108,3 @@ class Solution:
         return list
 ```
 
-explatory-free code.
